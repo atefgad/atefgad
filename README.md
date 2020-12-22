@@ -1,39 +1,4 @@
 ### Hi there 👋 I'm [Atef](https://github.com/atefgad) 👨‍💻
-
-**atefgad/atefgad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<br/>
-
-<a href="https://www.linkedin.com/in/atefgad/">
-  <img align="left" alt="Atef's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://t.me/atefgad">
-  <img align="left" alt="Atef's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://twitter.com/atefgad2">
-  <img align="left" alt="Atef's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:info@atef-gad.com">
-  <img align="left" alt="Atef's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br />
-
 <br/>
 
 <p>
@@ -45,6 +10,24 @@ Things I am currently experimenting with : jest , enzyme , typescript, ...
 <br/>
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
+
+<br />
+
+<a href="https://www.linkedin.com/in/atefgad/">
+  <img align="left" alt="Atef's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://fb.com/atefgad22">
+  <img align="left" alt="Atef's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="https://twitter.com/atefgad2">
+  <img align="left" alt="Atef's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="mailto:info@atef-gad.com">
+  <img align="left" alt="Atef's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
   
 ### ✨ Quick Facts
 
@@ -81,8 +64,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
-❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
-or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:aman.atg001@gmail.com)
+❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-atefgad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/atefgad/)
+or [![Gmail Badge](https://img.shields.io/badge/-atef0777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atef0777@gmail.com)](mailto:atef0777@gmail.com)
 
 <!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 if you are on a similar path as mine.

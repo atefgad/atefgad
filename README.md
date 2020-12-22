@@ -1,12 +1,11 @@
-### Hi there 👋 I'm [Atef](https://github.com/atefgad) 👨‍💻
-<br/>
+### Hi there 👋 I'm [Atef](https://atef-gad.com/) 👨‍💻
 
 <p>
 A Skilled FrontEnd Developer 🚀 from Egypt. Always working on some project or learning something new!
 <br/>
-I have worked with : React+Firebase, Next+React, Bootstrap, Materail UI.
+I have worked with : React+Firebase, Next+React, React Framer Motion, Bootstrap, Materail UI.
 <br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
+Things I am currently experimenting with : ReactJs , Ui & Ux Design ...
 <br/>
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
@@ -28,6 +27,9 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <a href="mailto:info@atef-gad.com">
   <img align="left" alt="Atef's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
+<br />
+<br />
   
 ### ✨ Quick Facts
 
@@ -58,13 +60,12 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
+### 💬  Connect Me ❤️:
 
-Offer work ❤️ : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-atefgad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/atefgad/)
+- 📫 On [![Linkedin Badge](https://img.shields.io/badge/-atefgad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/atefgad/)
 or [![Gmail Badge](https://img.shields.io/badge/-atef0777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atef0777@gmail.com)](mailto:atef0777@gmail.com)
 
-
-Connect with ❤️ :
-[whatsapp +2001156777283](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg)](https://www.w.me/in/+2001156777283/)
+- 📫 ![Whatsapp](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=whatsapp) (https://www.w.me/in/+2001156777283/)
 
 ------------------------------------------
-[My Website](https://atef-gad.com)
+## My Website : [https://atef-gad.com)](https://atef-gad.com)

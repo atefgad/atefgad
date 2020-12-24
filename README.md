@@ -20,7 +20,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   <img align="left" alt="Atef's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a href="https://twitter.com/atefgad2">
+<a href="https://twitter.com/atefgad22">
   <img align="left" alt="Atef's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 

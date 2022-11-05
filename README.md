@@ -39,7 +39,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Reading Tech blogs, Books or about History, Playing games.
-- 📫 How to reach me: info@atef-gad.com OR atef0777@gmail.com 
+- 📫 How to reach me: contact@atef-gad.com OR atef0777@gmail.com 
 - 📝 [Resume](https://drive.google.com/file/d/13EB1x2LpNbexTBtWpjqx3jlJ_vBA7l8v/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:

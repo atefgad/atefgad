@@ -24,7 +24,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   <img align="left" alt="Atef's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="mailto:info@atef-gad.com">
+<a href="mailto:contact@atef-gad.com">
   <img align="left" alt="Atef's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -63,7 +63,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ### 💬  Connect Me ❤️:
 
 - 📫 On [![Linkedin Badge](https://img.shields.io/badge/-atefgad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/atefgad/)
-or [![Gmail Badge](https://img.shields.io/badge/-atef0777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atef0777@gmail.com)](mailto:atef0777@gmail.com)
+or [![Gmail Badge](https://img.shields.io/badge/-atef0777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@atef-gad.com)](mailto:contact@atef-gad.com)
 
 - 📫 ![Whatsapp](https://img.shields.io/badge/-Whatsapp-black?style=flat-square&logo=whatsapp) [+2001017857849](https://www.w.me/in/+2001017857849/)
 

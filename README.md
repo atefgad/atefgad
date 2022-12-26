@@ -63,7 +63,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ### 💬  Connect Me ❤️:
 
 - 📫 On [![Linkedin Badge](https://img.shields.io/badge/-atefgad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/atefgad/)
-or [![Gmail Badge](https://img.shields.io/badge/-contact@atef-gad.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@atef-gad.com)](mailto:contact@atef-gad.com)
+or [![Gmail Badge](https://img.shields.io/badge/-atef0777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@atef-gad.com)](mailto:contact@atef-gad.com)
 
 - 📫 ![Whatsapp](https://img.shields.io/badge/-Whatsapp-black?style=flat-square&logo=whatsapp) [+2001017857849](https://www.w.me/in/+2001017857849/)
 
